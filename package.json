@@ -1,5 +1,5 @@
 {
-  "name": "react-website",
+  "name": "okrs-kpis-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,11 +14,8 @@
     "react-router-dom": "^5.2.0",
     "react-syntax-highlighter": "^15.4.4",
     "save-dev": "*",
-    "web-vitals": "^1.1.2"
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "react-scripts": "^5.0.1"
+    "web-vitals": "^1.1.2",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
