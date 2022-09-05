@@ -1,5 +1,7 @@
 import React from "react";
-const webapp = process.env.webapp;
+
+
+const webapp = window.location.href.includes('localhost') ? "http://localhost:3010/login":"https://okrsandkpis.herokuapp.com";
 
 function Header() {
   return (
@@ -10,7 +12,7 @@ function Header() {
             <div className="container">
               <div className="row">
                 <div className="col-md-3 col-sm-3">
-                  <div className="site-title">
+                    <div className="site-title">
                     <a href="/#home" style={{ textDecoration: "none" }}>
                       <h3>OKRs & KPIs</h3>
                     </a>
@@ -51,7 +53,6 @@ function Header() {
 
                       <li>
                         <a href={webapp}>Login</a>
-
                       </li>
                     </ul>
                   </div>
