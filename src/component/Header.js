@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const webapp = window.location.href.includes('localhost') ? "http://localhost:3010/login":"https://okrsandkpis.herokuapp.com";
+const webapp = window.location.href.includes('localhost') ? "http://localhost:3010/login":"https://okrsandkpis.herokuapp.com/login";
 
 function Header() {
   return (
