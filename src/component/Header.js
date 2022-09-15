@@ -45,7 +45,7 @@ function Header() {
                         <a href="/#okrsandkpis">OKRs And KPIs ?</a>
                       </li>
                       <li>
-                        <a href="/#service">Our Products List</a>
+                        <a href="/#service">Our Products</a>
                       </li>
                       <li>
                         <a href="/#contact">Contact</a>
