@@ -250,7 +250,7 @@ const Home = () => {
                                 <div className="row">
                                     <div className="col-md-12">
                                         <div className="main-title text-center wow fadeIn">
-                                            <h3>Our Products List</h3>
+                                            <h3> Our Products</h3>
                                             <div className="underline1"></div>
                                             <div className="underline2"></div>
                                             <p>
