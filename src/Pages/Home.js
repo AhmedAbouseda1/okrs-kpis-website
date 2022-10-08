@@ -264,7 +264,7 @@ const Home = () => {
                                         <div className="service-details" data-wow-delay=".1s">
                                             <div className="service-head">
                                                 <img
-                                                    src="assets/img/service/design-development.jpg"
+                                                    src="assets/img/service/Academic-libraries.jfif"
                                                     alt="design-development"
                                                 />
                                             </div>
@@ -273,11 +273,11 @@ const Home = () => {
                                                     className="fa fa-edit service-icon"
                                                     aria-hidden="true"
                                                 ></i>
-                                                <h3>Library</h3>
+                                                <h3>Academic Libraries</h3>
                                                 <div className="underline1"></div>
                                                 <div className="underline2"></div>
                                                 <p>
-                                                    National,Academic,Public, and School.
+                                                    Leads the scientific research.
                                                 </p>
                                             </div>
                                         </div>
@@ -286,7 +286,76 @@ const Home = () => {
                                         <div className="service-details" data-wow-delay=".1s">
                                             <div className="service-head">
                                                 <img
-                                                    src="assets/img/service/e-commarce.jpg"
+                                                    src="assets/img/service/National-libraries.jpg"
+                                                    alt="Museums"
+                                                />
+                                            </div>
+                                            <div className="service-bottom">
+                                                <i
+                                                    className="fa fa-cart-plus exp-icon"
+                                                    aria-hidden="true"
+                                                ></i>
+                                                <h3>National Libraries</h3>
+                                                <div className="underline1"></div>
+                                                <div className="underline2"></div>
+                                                <p>
+                                                    Heritage of nations.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-4 col-sm-6">
+                                        <div className="service-details" data-wow-delay=".1s">
+                                            <div className="service-head">
+                                                <img
+                                                    src="assets/img/service/Public-libraries.jpg"
+                                                    alt="analytics"
+                                                />
+                                            </div>
+                                            <div className="service-bottom">
+                                                <i
+                                                    className="fa fa-tachometer service-icon"
+                                                    aria-hidden="true"
+                                                ></i>
+                                                <h3>Public Libraries</h3>
+                                                <div className="underline1"></div>
+                                                <div className="underline2"></div>
+                                                <p>
+                                                    Empowering communities.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div className="row love-row wow fadeIn">
+                                    <div className="col-md-4 col-sm-6">
+                                        <div className="service-details" data-wow-delay=".1s">
+                                            <div className="service-head">
+                                                <img
+                                                    src="assets/img/service/School-libraries.jpg"
+                                                    alt="design-development"
+                                                />
+                                            </div>
+                                            <div className="service-bottom">
+                                                <i
+                                                    className="fa fa-edit service-icon"
+                                                    aria-hidden="true"
+                                                ></i>
+                                                <h3>School Libraries</h3>
+                                                <div className="underline1"></div>
+                                                <div className="underline2"></div>
+                                                <p>
+                                                    Read today to a better tomorrow.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-4 col-sm-6">
+                                        <div className="service-details" data-wow-delay=".1s">
+                                            <div className="service-head">
+                                                <img
+                                                    src="assets/img/service/mus.jpg"
                                                     alt="Museums"
                                                 />
                                             </div>
@@ -308,7 +377,7 @@ const Home = () => {
                                         <div className="service-details" data-wow-delay=".1s">
                                             <div className="service-head">
                                                 <img
-                                                    src="assets/img/service/analytics.jpg"
+                                                    src="assets/img/service/12.jpg"
                                                     alt="analytics"
                                                 />
                                             </div>
@@ -328,6 +397,7 @@ const Home = () => {
                                     </div>
 
                                 </div>
+
                             </div>
                         </div>
                         <div className="testimonial">
@@ -425,6 +495,63 @@ const Home = () => {
                                                 </div>
                                             </div>
                                         </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+                <div id="edu">
+                    <div className="contact-content">
+                        <div className="text-grid">
+                            <div className="text-grid-main">
+                                <div className="container">
+                                    <div className="row">
+                                        <div className="col-md-12 col-sm-12">
+                                            <div className="main-title text-center wow fadeIn">
+
+
+
+                                                <div className="row">
+                                                    <div className="col-md-4 col-sm-6 col-xs-12 about-col">
+                                                        <div className="about-image">
+                                                            <img
+                                                                src="assets/img/logo.png"
+                                                                alt="sanajit-jana"
+                                                                className="about-img wow fadeIn"
+                                                            />
+                                                        </div>
+                                                    </div>
+                                                    <div className="col-md-8 col-sm-6 col-xs-12 about-col">
+                                                        <div className="about-details wow fadeIn">
+                                                            <div className="main-title left-title text-left wow fadeIn">
+                                                                <h3>الاتحاد العربي للمكتبات</h3>
+                                                                <div className="underline1 no-margin"></div>
+                                                                <div className="underline2 no-margin"></div>
+                                                            </div>
+                                                            <p className="wow fadeIn">
+                                                                يعمل الاتحاد العربي للمكتبات والمعلومات على تحقيق جملة من الاهداف من بينها : تعزيز علاقات التعاون بين الجمعيات والمؤسسات المكتبية في الوطن العربي . العناية بالتراث العربي المكتوب السمعي البصري الموزع في كل مكان والتعريف به ، المساعدة على الأرتقاء بالمهنة والرفع من منزلتها . إعداد وتشجيع البحوث العلمية والدراسات في مجال المكتبات والمعلومات وعقد الندوات والمؤتمرات والحلقات الدراسية المتخصصة
+
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+
+
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
