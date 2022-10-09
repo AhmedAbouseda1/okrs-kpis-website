@@ -52,7 +52,7 @@ function Header() {
                       </li>
 
                       <li>
-                        <a href="/#edu">الاتحاد العربي</a>
+                        <a href="/#edu">AFLI</a>
                       </li>
 
 

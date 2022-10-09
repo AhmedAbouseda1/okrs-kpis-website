@@ -368,7 +368,7 @@ const Home = () => {
                                                 <div className="underline1"></div>
                                                 <div className="underline2"></div>
                                                 <p>
-                                                    Museums.
+                                                    Where history of the world is brought together.
                                                 </p>
                                             </div>
                                         </div>
@@ -390,7 +390,7 @@ const Home = () => {
                                                 <div className="underline1"></div>
                                                 <div className="underline2"></div>
                                                 <p>
-                                                    Art & Cultural centers
+                                                    Saving folklore and promoting the modern cultures.
                                                 </p>
                                             </div>
                                         </div>
